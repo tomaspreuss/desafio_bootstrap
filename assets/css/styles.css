@@ -1,0 +1,79 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.item {
+    margin-bottom: 1rem;
+}
+
+.navbar {
+    background-color: #28A745;
+}
+
+.card {
+    margin: 2rem;
+    text-align:start
+
+}
+
+.card-head {
+    font-weight: 100;
+    color: #707070;
+    text-align:start;
+}
+
+.card-cont {
+    font-weight: 100;
+    color: #707070;
+    text-align:start;
+}
+
+.card img {
+width:286px;
+height: 175px;
+
+}
+
+.card-title {
+    font-weight: 100;
+    color: #212529;
+}
+
+.card-text {
+    font-weight: 100;
+    color: #707070;
+     
+}
+
+.card-precio {
+    font-weight: 100;
+    color: #707070;
+    text-align:end
+}
+
+span {
+    font-weight: 300;
+    width: 100px;
+    color: #28A745;
+    text-align: end;
+}
+
+.fa-map-marker-alt {
+    padding-right: 5px;
+}
+
+
+#form {
+ background-color: #28A745;   
+}
+
+footer{
+    text-align: center;
+    font-weight: 100;
+    color: #707070;
+}
+
+
+    
+    
